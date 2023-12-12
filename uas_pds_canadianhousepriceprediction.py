@@ -29,6 +29,7 @@ https://www.jetir.org/papers/JETIR2110302.pdf
 
 import pandas as pd
 import numpy as np
+np.bool = np.bool_
 import math
 
 """Tahap awal setelah mengenali permasalahan yang ada dan tujuan yang akan dilakukan adalah memasukkan data ke dalam jupyter notebook, yang di mana data yang digunakan diambil dari
